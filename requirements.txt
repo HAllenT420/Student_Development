@@ -1,0 +1,16 @@
+pandas
+numpy
+seaborn
+matplotlib
+scikit-learn
+catboost
+xgboost
+Flask
+python-dotenv
+certifi
+mlflow
+pyaml
+dagshub
+fastapi
+uvicorn
+python-multipart
