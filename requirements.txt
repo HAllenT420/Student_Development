@@ -14,3 +14,6 @@ dagshub
 fastapi
 uvicorn
 python-multipart
+pyodbc
+sqlalchemy
+pymssql
